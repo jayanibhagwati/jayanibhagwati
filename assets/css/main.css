@@ -1541,3 +1541,10 @@ section,
 }
 
 }
+section {
+  padding: 30px 0 !important;
+}
+#about, #resume, #portfolio, #contact {
+  padding: 25px 0 !important;
+}
+
